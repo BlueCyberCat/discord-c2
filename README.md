@@ -10,7 +10,11 @@ https://pawelbruski.com/posts/2022-03-27---Discord-as-C2-server-with-a-Batch-bea
 - Bidirectional communication with C2
 - Persistance using Schleuded tasks
 
-
+## Usage
+Remember to edit your webhooks in batch file
+``` plain
+./discord-stealer.bat
+```
 
 ## Defense
 ``` Kusto 
